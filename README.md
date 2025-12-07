@@ -1,5 +1,5 @@
 # Memory Consolidation in Simple Games by Deep-Q Forward-Forward Learning
-This is the repository for the bachelor's thesis on Forward-Forward learning and it's extension to the field of reinforcement learning. 
+This is the repository for the RUG bachelor's thesis on Forward-Forward learning and it's extension to the field of reinforcement learning. 
 
 The research starts with creating gameplay data from blackjack using the optimal strategy. Various types of Forward-Forward Neural Networks are subsequently trained using this data. Lastly, an adaptation of the Forward-Forward algorithm is introduced, called deep-Q Forward-Forward Learning. This algorithm uses a Forward-Forward Neural Network as a function approximator in reinforcement learning.
 
