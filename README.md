@@ -5,4 +5,4 @@ The research starts with creating gameplay data from blackjack using the optimal
 
 The code can be exectuted by running the `FFNN_blackjack.ipynb` jupyter notebook. Beware of the significant runtime.
 
-contact f.p.j.de.kam@student.rug.nl for questions.
+contact floris.de.kam@student.uva.nl for questions.
